@@ -249,6 +249,7 @@ export const PROJECTS: ProjectItem[] = [
     badge: 'Template For Sale',
     category: 'Operations',
     oneLiner: 'An interactive virtual warehouse that turns inventory into a visual system people can actually use.',
+    demoUrl: "https://vwms.ascentraintegrationstudios.com",
     bullets: [
       'Visual warehouse layout + asset tracking',
       'Fast lookup, movement history, and status changes',
