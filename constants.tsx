@@ -246,7 +246,7 @@ export const PROJECTS: ProjectItem[] = [
     id: 'vwms',
     slug: 'vwms',
     name: 'VWMS',
-    badge: 'Portfolio Build',
+    badge: 'Template For Sale',
     category: 'Operations',
     oneLiner: 'An interactive virtual warehouse that turns inventory into a visual system people can actually use.',
     bullets: [
