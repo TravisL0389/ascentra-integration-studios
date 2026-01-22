@@ -248,6 +248,7 @@ export const PROJECTS: ProjectItem[] = [
     name: 'VWMS',
     badge: 'Template For Sale',
     category: 'Operations',
+    demoUrl: "https://vwms.ascentraintegrationstudios.com"
     oneLiner: 'An interactive virtual warehouse that turns inventory into a visual system people can actually use.',
     bullets: [
       'Visual warehouse layout + asset tracking',
