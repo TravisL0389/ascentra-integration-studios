@@ -270,7 +270,6 @@ export const PROJECTS: ProjectItem[] = [
         features: ['Interactive map interface', 'Barcode scanning app', 'Batch movement history', 'Role-based access'],
         stack: ['React', 'D3.js', 'Express', 'Redis', 'WebSockets'],
         outcomes: 'Implemented for a mid-sized distributor, reducing picking errors by 40% and training time by 60%.'
-        demoUrl: "https://vwms.ascentraintegrationstudios.com"
       }
     }
   },
