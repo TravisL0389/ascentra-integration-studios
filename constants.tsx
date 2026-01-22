@@ -248,7 +248,6 @@ export const PROJECTS: ProjectItem[] = [
     name: 'VWMS',
     badge: 'Template For Sale',
     category: 'Operations',
-    demoUrl: "https://vwms.ascentraintegrationstudios.com"
     oneLiner: 'An interactive virtual warehouse that turns inventory into a visual system people can actually use.',
     bullets: [
       'Visual warehouse layout + asset tracking',
@@ -270,6 +269,7 @@ export const PROJECTS: ProjectItem[] = [
         features: ['Interactive map interface', 'Barcode scanning app', 'Batch movement history', 'Role-based access'],
         stack: ['React', 'D3.js', 'Express', 'Redis', 'WebSockets'],
         outcomes: 'Implemented for a mid-sized distributor, reducing picking errors by 40% and training time by 60%.'
+        demoUrl: "https://vwms.ascentraintegrationstudios.com"
       }
     }
   },
